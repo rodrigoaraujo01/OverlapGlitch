@@ -15,6 +15,7 @@
 		7E12E46224B253E1001AF70C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E12E46124B253E1001AF70C /* Assets.xcassets */; };
 		7E12E46524B253E1001AF70C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E12E46324B253E1001AF70C /* LaunchScreen.storyboard */; };
 		7E12E47024B253E1001AF70C /* tempTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E12E46F24B253E1001AF70C /* tempTests.swift */; };
+		7E12E47B24B25437001AF70C /* FirstTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E12E47A24B25437001AF70C /* FirstTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		7E12E46B24B253E1001AF70C /* tempTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tempTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E12E46F24B253E1001AF70C /* tempTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tempTests.swift; sourceTree = "<group>"; };
 		7E12E47124B253E1001AF70C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7E12E47A24B25437001AF70C /* FirstTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				7E12E45724B253DC001AF70C /* SceneDelegate.swift */,
 				7E12E45924B253DC001AF70C /* ViewController.swift */,
 				7E12E45B24B253DC001AF70C /* Main.storyboard */,
+				7E12E47A24B25437001AF70C /* FirstTableViewController.swift */,
 				7E12E46124B253E1001AF70C /* Assets.xcassets */,
 				7E12E46324B253E1001AF70C /* LaunchScreen.storyboard */,
 				7E12E46624B253E1001AF70C /* Info.plist */,
@@ -207,6 +210,7 @@
 				7E12E45624B253DC001AF70C /* AppDelegate.swift in Sources */,
 				7E12E45824B253DC001AF70C /* SceneDelegate.swift in Sources */,
 				7E12E46024B253DC001AF70C /* temp.xcdatamodeld in Sources */,
+				7E12E47B24B25437001AF70C /* FirstTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
